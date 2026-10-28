@@ -13,32 +13,7 @@ This repository serves as a personal learning workspace for building Python prog
 - Build a practical foundation for Application Security and Bug Bounty.
 - Document learning progress through code and lab notes.
 
-## 📂 Repository Structure
 
-```text
-appsec-lab-scripts/
-│
-├── python-basics/
-│   ├── file_operations.py
-│   ├── requests_basics.py
-│   └── json_parser.py
-│
-├── web-security/
-│   ├── http_headers.py
-│   ├── url_parser.py
-│   └── response_analyzer.py
-│
-├── automation/
-│   ├── log_analyzer.py
-│   └── subdomain_validator.py
-│
-├── lab-notes/
-│   └── README.md
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
 
 ## 🛠️ Technologies
 
